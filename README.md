@@ -24,8 +24,8 @@ The goal is to save babies falling from a burning building using the firefighter
 - High Score is saved per session
 
 ## Screenshots
- ![Start screen](assets/startscreen.png)
+ ![Start screen](assets/screenshots/startscreen.png)
 
- ![Gameplay](assets/gameplay.png)
+ ![Gameplay](assets/screenshots/gameplay.png)
 
- ![Game Over screen](assets/gameoverscreen.png)
+ ![Game Over screen](assets/screenshots/gameoverscreen.png)
