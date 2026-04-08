@@ -369,8 +369,8 @@ def main():
     rotation_angle = 0
 
     # sounds
-    miss = pygame.mixer.Sound("assets/rblxSFX.mp3")
-    boing = pygame.mixer.Sound("assets/boing_lmke36X.mp3")
+    # miss = pygame.mixer.Sound("assets/rblxSFX.mp3")
+    # boing = pygame.mixer.Sound("assets/boing_lmke36X.mp3")
     boing.set_volume(0.1)
     gameover_sound = pygame.mixer.Sound("assets/negative_beeps-6008.mp3")
 
