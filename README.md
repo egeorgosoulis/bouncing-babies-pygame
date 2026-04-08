@@ -23,6 +23,11 @@ The goal is to save babies falling from a burning building using the firefighter
 - When lives reach 0 = Game Over
 - High Score is saved per session
 
+## Assets
+
+- All sprites and visual assets used in the game were created by me.
+- Audio files are excluded from this repository due to copyright and licensing restrictions.
+
 ## Screenshots
  ![Start screen](assets/screenshots/startscreen.png)
 
